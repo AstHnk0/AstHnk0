@@ -31,11 +31,11 @@
 ### 💾 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux" />
-  <img src="https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash" />
-  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Burp--Suite-black?style=for-the-badge&logo=burpsuite" />
-  <img src="https://img.shields.io/badge/HackTheBox-black?style=for-the-badge&logo=hackthebox" />
+  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terminal-000?style=for-the-badge&logo=windowsterminal&logoColor=white" />
 </p>
 
 ---
